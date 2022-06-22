@@ -71,7 +71,6 @@ describe('unicafe reducer', () => {
       type: 'ZERO'
     }
 
-    //yea
     const state = initialState
     deepFreeze(state)
     
